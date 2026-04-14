@@ -199,6 +199,8 @@ img{
 }
 
 
+git remote -v
+
 /* ================= SERVICE ================= */
 .services {
   padding: 80px 0;
