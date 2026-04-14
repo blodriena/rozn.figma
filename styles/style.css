@@ -138,6 +138,10 @@ img{
   cursor: pointer;
 }
 
+
+
+
+
 .burger span {
   display: block;
   height: 3px;
@@ -157,9 +161,6 @@ img{
 
 .burger.active span:nth-child(3) {
   transform: rotate(-45deg) translate(6px, -6px);
-}
-.burger.active span:nth-child(3) {
-  transform: rotate(-12deg) translate(4px, -4px);
 }
 
 
